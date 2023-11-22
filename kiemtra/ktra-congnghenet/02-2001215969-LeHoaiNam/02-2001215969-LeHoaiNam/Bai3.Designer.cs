@@ -1,0 +1,254 @@
+﻿namespace _02_2001215969_LeHoaiNam
+{
+    partial class PC02_969_Bai3
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.PC02_969_trvPB = new System.Windows.Forms.TreeView();
+            this.label2 = new System.Windows.Forms.Label();
+            this.PC02_969_txtPB = new System.Windows.Forms.TextBox();
+            this.PC02_969_btnThemPB = new System.Windows.Forms.Button();
+            this.PC02_969_btnXoaPB = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.PC02_969_cboPB = new System.Windows.Forms.ComboBox();
+            this.PC02_969_btnThemNV = new System.Windows.Forms.Button();
+            this.PC02_969_btnExit = new System.Windows.Forms.Button();
+            this.groupBox1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.PC02_969_btnXoaPB);
+            this.groupBox1.Controls.Add(this.PC02_969_btnThemPB);
+            this.groupBox1.Controls.Add(this.PC02_969_txtPB);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.PC02_969_trvPB);
+            this.groupBox1.Location = new System.Drawing.Point(15, 15);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.groupBox1.Size = new System.Drawing.Size(336, 461);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Phòng ban";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.DodgerBlue;
+            this.label1.Location = new System.Drawing.Point(360, 15);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(197, 24);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "HỒ SƠ NHÂN VIÊN";
+            // 
+            // PC02_969_trvPB
+            // 
+            this.PC02_969_trvPB.Location = new System.Drawing.Point(10, 24);
+            this.PC02_969_trvPB.Name = "PC02_969_trvPB";
+            this.PC02_969_trvPB.Size = new System.Drawing.Size(317, 304);
+            this.PC02_969_trvPB.TabIndex = 0;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(9, 337);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(100, 22);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Phòng Ban";
+            // 
+            // PC02_969_txtPB
+            // 
+            this.PC02_969_txtPB.Location = new System.Drawing.Point(115, 332);
+            this.PC02_969_txtPB.Name = "PC02_969_txtPB";
+            this.PC02_969_txtPB.Size = new System.Drawing.Size(212, 32);
+            this.PC02_969_txtPB.TabIndex = 2;
+            // 
+            // PC02_969_btnThemPB
+            // 
+            this.PC02_969_btnThemPB.Location = new System.Drawing.Point(115, 371);
+            this.PC02_969_btnThemPB.Name = "PC02_969_btnThemPB";
+            this.PC02_969_btnThemPB.Size = new System.Drawing.Size(212, 36);
+            this.PC02_969_btnThemPB.TabIndex = 3;
+            this.PC02_969_btnThemPB.Text = "Thêm phòng ban";
+            this.PC02_969_btnThemPB.UseVisualStyleBackColor = true;
+            this.PC02_969_btnThemPB.Click += new System.EventHandler(this.PC02_969_btnThemPB_Click);
+            // 
+            // PC02_969_btnXoaPB
+            // 
+            this.PC02_969_btnXoaPB.Location = new System.Drawing.Point(115, 413);
+            this.PC02_969_btnXoaPB.Name = "PC02_969_btnXoaPB";
+            this.PC02_969_btnXoaPB.Size = new System.Drawing.Size(212, 36);
+            this.PC02_969_btnXoaPB.TabIndex = 4;
+            this.PC02_969_btnXoaPB.Text = "Xóa phòng ban";
+            this.PC02_969_btnXoaPB.UseVisualStyleBackColor = true;
+            this.PC02_969_btnXoaPB.Click += new System.EventHandler(this.PC02_969_btnXoaPB_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(360, 39);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(68, 24);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Mã Số";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(360, 82);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(76, 24);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "Họ Tên";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(360, 128);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(72, 24);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "Địa chỉ";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(360, 178);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(110, 24);
+            this.label6.TabIndex = 4;
+            this.label6.Text = "Phòng Ban";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(434, 36);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(338, 32);
+            this.textBox2.TabIndex = 5;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(434, 79);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(338, 32);
+            this.textBox3.TabIndex = 6;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(434, 125);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(338, 32);
+            this.textBox4.TabIndex = 7;
+            // 
+            // PC02_969_cboPB
+            // 
+            this.PC02_969_cboPB.FormattingEnabled = true;
+            this.PC02_969_cboPB.Location = new System.Drawing.Point(476, 175);
+            this.PC02_969_cboPB.Name = "PC02_969_cboPB";
+            this.PC02_969_cboPB.Size = new System.Drawing.Size(296, 32);
+            this.PC02_969_cboPB.TabIndex = 8;
+            // 
+            // PC02_969_btnThemNV
+            // 
+            this.PC02_969_btnThemNV.Location = new System.Drawing.Point(462, 250);
+            this.PC02_969_btnThemNV.Name = "PC02_969_btnThemNV";
+            this.PC02_969_btnThemNV.Size = new System.Drawing.Size(113, 48);
+            this.PC02_969_btnThemNV.TabIndex = 9;
+            this.PC02_969_btnThemNV.Text = "Thêm";
+            this.PC02_969_btnThemNV.UseVisualStyleBackColor = true;
+            // 
+            // PC02_969_btnExit
+            // 
+            this.PC02_969_btnExit.Location = new System.Drawing.Point(626, 250);
+            this.PC02_969_btnExit.Name = "PC02_969_btnExit";
+            this.PC02_969_btnExit.Size = new System.Drawing.Size(113, 48);
+            this.PC02_969_btnExit.TabIndex = 10;
+            this.PC02_969_btnExit.Text = "Thoát";
+            this.PC02_969_btnExit.UseVisualStyleBackColor = true;
+            this.PC02_969_btnExit.Click += new System.EventHandler(this.PC02_969_btnExit_Click);
+            // 
+            // PC02_969_Bai3
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(811, 491);
+            this.Controls.Add(this.PC02_969_btnExit);
+            this.Controls.Add(this.PC02_969_btnThemNV);
+            this.Controls.Add(this.PC02_969_cboPB);
+            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.groupBox1);
+            this.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Name = "PC02_969_Bai3";
+            this.Text = "Bai3";
+            this.Load += new System.EventHandler(this.PC02_969_Bai3_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button PC02_969_btnXoaPB;
+        private System.Windows.Forms.Button PC02_969_btnThemPB;
+        private System.Windows.Forms.TextBox PC02_969_txtPB;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TreeView PC02_969_trvPB;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.ComboBox PC02_969_cboPB;
+        private System.Windows.Forms.Button PC02_969_btnThemNV;
+        private System.Windows.Forms.Button PC02_969_btnExit;
+    }
+}

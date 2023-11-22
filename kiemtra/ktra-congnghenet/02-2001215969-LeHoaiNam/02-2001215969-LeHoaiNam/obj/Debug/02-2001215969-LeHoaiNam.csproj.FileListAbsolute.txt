@@ -1,0 +1,15 @@
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\bin\Debug\02-2001215969-LeHoaiNam.exe.config
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\bin\Debug\02-2001215969-LeHoaiNam.exe
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\bin\Debug\02-2001215969-LeHoaiNam.pdb
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\02-2001215969-LeHoaiNam.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\_02_2001215969_LeHoaiNam.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\02-2001215969-LeHoaiNam.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\02-2001215969-LeHoaiNam.exe
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\02-2001215969-LeHoaiNam.pdb
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\_02_2001215969_LeHoaiNam.Bai1.resources
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\_02_2001215969_LeHoaiNam.Bai2.resources
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\_02_2001215969_LeHoaiNam.formMain.resources
+E:\LuuDuLieuSinhVien\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\_02_2001215969_LeHoaiNam.PC02_969_Bai3.resources
+C:\Users\Administrator\Downloads\kiemtra\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\bin\Debug\02-2001215969-LeHoaiNam.exe.config
+C:\Users\Administrator\Downloads\kiemtra\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\02-2001215969-LeHoaiNam.exe
+C:\Users\Administrator\Downloads\kiemtra\ktra-congnghenet\02-2001215969-LeHoaiNam\02-2001215969-LeHoaiNam\obj\Debug\02-2001215969-LeHoaiNam.pdb

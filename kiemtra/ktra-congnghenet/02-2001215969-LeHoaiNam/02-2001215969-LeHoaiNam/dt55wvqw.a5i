@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _02_2001215969_LeHoaiNam
+{
+    public partial class Bai2 : Form
+    {
+        public Bai2()
+        {
+            InitializeComponent();
+        }
+
+        private void Bai2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult r = MessageBox.Show("Bạn có muốn thoát?", "Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
+            if (r == DialogResult.No)
+                e.Cancel = true;
+        }
+
+        private void PC02_969_txtArray_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PC02_969_btnInputArray_Click(object sender, EventArgs e)
+        {
+            if (PC02_969_txtArray.Text.Trim().Length == 0)
+                MessageBox.Show("Chưa nhập mảng","Lỗi");
+            else
+            {
+                string[] s = PC02_969_txtArray.Text.Split(' ');
+                int[] arr = new int[s.Length];
+                M1C arr = new M1C(arr);
+
+            }
+        }
+
+        private void PC02_969_txtArray_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!Char.IsControl(e.KeyChar) && !Char.IsDigit(e.KeyChar) && e.KeyChar != ' ')
+                e.Handled = true;
+        }
+
+        private void PC02_969_btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}

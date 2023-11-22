@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _02_2001215969_LeHoaiNam
+{
+    public partial class PC02_969_Bai3 : Form
+    {
+        public PC02_969_Bai3()
+        {
+            InitializeComponent();
+        }
+
+        private void Bai3_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
